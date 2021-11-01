@@ -14,20 +14,31 @@
   margin: -107px 373px 60px auto;
 }
 
-@media (max-width: 991px) {
-  .u-section-1 .u-text-1 {
-    margin-left: 211px;
+@media (max-width: 1199px) {
+  .u-section-1 .u-social-icons-1 {
+    margin-top: 20px;
+    margin-right: auto;
+    margin-left: 276px;
   }
 }
 
-@media (max-width: 767px) {
+@media (max-width: 991px) {
   .u-section-1 .u-text-1 {
-    margin-left: 158px;
+    margin-top: 242px;
+    margin-left: auto;
   }
 }
 
 @media (max-width: 575px) {
   .u-section-1 .u-text-1 {
-    margin-left: 99px;
+    width: auto;
+    margin-top: 226px;
+    margin-left: 15px;
+    margin-right: 15px;
+  }
+
+  .u-section-1 .u-social-icons-1 {
+    margin-top: 40px;
+    margin-left: auto;
   }
 }
