@@ -275,20 +275,18 @@
 .u-section-5 .u-image-1 {
   width: 570px;
   height: 720px;
-  margin: 240px 193px 60px auto;
+  margin: 60px auto;
 }
 
 @media (max-width: 1199px) {
   .u-section-5 .u-image-1 {
-    margin-top: 60px;
-    margin-right: 60px;
+    margin-top: 231px;
   }
 }
 
 @media (max-width: 991px) {
   .u-section-5 .u-image-1 {
     width: 623px;
-    margin-right: -72px;
   }
 }
 
@@ -300,7 +298,9 @@
   .u-section-5 .u-image-1 {
     width: 540px;
     height: 625px;
-    margin-right: -110px;
+    margin-top: 240px;
+    margin-left: 0;
+    margin-right: 0;
   }
 }
 
@@ -312,7 +312,8 @@
   .u-section-5 .u-image-1 {
     width: 359px;
     height: 394px;
-    margin-right: -69px;
+    margin-left: -10px;
+    margin-right: -10px;
   }
 }.u-section-6 .u-sheet-1 {
   min-height: 1200px;
@@ -321,19 +322,19 @@
 .u-section-6 .u-image-1 {
   width: 783px;
   height: 720px;
-  margin: 240px 31px 60px auto;
-}
-
-@media (max-width: 1199px) {
-  .u-section-6 .u-image-1 {
-    margin-top: 60px;
-    margin-right: -116px;
-  }
+  margin: 60px auto;
 }
 
 @media (max-width: 991px) {
+  .u-section-6 .u-sheet-1 {
+    min-height: 1142px;
+  }
+
   .u-section-6 .u-image-1 {
-    margin-right: -175px;
+    width: 720px;
+    height: 662px;
+    margin-left: 0;
+    margin-right: 0;
   }
 }
 
@@ -345,7 +346,7 @@
   .u-section-6 .u-image-1 {
     width: 540px;
     height: 497px;
-    margin-right: -116px;
+    margin-left: auto;
   }
 }
 
@@ -357,7 +358,7 @@
   .u-section-6 .u-image-1 {
     width: 340px;
     height: 313px;
-    margin-right: -86px;
+    margin-left: 0;
   }
 }.u-section-7 .u-sheet-1 {
   min-height: 1200px;
@@ -366,19 +367,17 @@
 .u-section-7 .u-image-1 {
   width: 783px;
   height: 720px;
-  margin: 240px 31px 60px auto;
-}
-
-@media (max-width: 1199px) {
-  .u-section-7 .u-image-1 {
-    margin-top: 60px;
-    margin-right: -89px;
-  }
+  margin: 60px auto;
 }
 
 @media (max-width: 991px) {
+  .u-section-7 .u-sheet-1 {
+    min-height: 1142px;
+  }
+
   .u-section-7 .u-image-1 {
-    margin-right: -174px;
+    width: 720px;
+    height: 662px;
   }
 }
 
@@ -390,7 +389,8 @@
   .u-section-7 .u-image-1 {
     width: 540px;
     height: 497px;
-    margin-right: -115px;
+    margin-left: 0;
+    margin-right: 0;
   }
 }
 
@@ -402,7 +402,6 @@
   .u-section-7 .u-image-1 {
     width: 340px;
     height: 313px;
-    margin-right: -87px;
   }
 }.u-section-8 .u-sheet-1 {
   min-height: 1200px;
