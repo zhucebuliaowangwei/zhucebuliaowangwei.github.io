@@ -5,6 +5,7 @@
 .u-section-1 .u-image-1 {
   width: 1080px;
   height: 720px;
+  transition-duration: 0.5s;
   margin: 60px auto;
 }
 
@@ -50,6 +51,14 @@
     width: 340px;
     height: 227px;
   }
+}
+
+.u-section-1 .u-image-1 {
+  transition-property: color, background-color, background-image, border-width, box-shadow, text-shadow, opacity, border-radius, border-color, font-size, font-style, font-weight, font-weight, text-decoration, letter-spacing, transform !important;
+}
+
+.u-section-1 .u-image-1:hover {
+  transform: scale(1.2) !important;
 }.u-section-2 .u-sheet-1 {
   min-height: 1200px;
 }
@@ -57,6 +66,7 @@
 .u-section-2 .u-image-1 {
   width: 1080px;
   height: 720px;
+  transition-duration: 0.5s;
   margin: 60px auto;
 }
 
@@ -102,6 +112,14 @@
     width: 340px;
     height: 227px;
   }
+}
+
+.u-section-2 .u-image-1 {
+  transition-property: color, background-color, background-image, border-width, box-shadow, text-shadow, opacity, border-radius, border-color, font-size, font-style, font-weight, font-weight, text-decoration, letter-spacing, transform !important;
+}
+
+.u-section-2 .u-image-1:hover {
+  transform: scale(1.2) !important;
 }.u-section-3 .u-sheet-1 {
   min-height: 1200px;
 }
@@ -109,6 +127,7 @@
 .u-section-3 .u-image-1 {
   width: 1080px;
   height: 720px;
+  transition-duration: 0.5s;
   margin: 60px auto;
 }
 
@@ -154,6 +173,14 @@
     width: 340px;
     height: 227px;
   }
+}
+
+.u-section-3 .u-image-1 {
+  transition-property: color, background-color, background-image, border-width, box-shadow, text-shadow, opacity, border-radius, border-color, font-size, font-style, font-weight, font-weight, text-decoration, letter-spacing, transform !important;
+}
+
+.u-section-3 .u-image-1:hover {
+  transform: scale(1.2) !important;
 }.u-section-4 .u-sheet-1 {
   min-height: 1200px;
 }
@@ -214,7 +241,7 @@
 }
 
 .u-section-4 .u-image-1:hover {
-  transform: scale(1.5) !important;
+  transform: scale(1.2) !important;
 }.u-section-5 .u-sheet-1 {
   min-height: 1200px;
 }
@@ -275,7 +302,7 @@
 }
 
 .u-section-5 .u-image-1:hover {
-  transform: scale(1.5) !important;
+  transform: scale(1.2) !important;
 }.u-section-6 .u-sheet-1 {
   min-height: 1200px;
 }
@@ -295,6 +322,7 @@
   .u-section-6 .u-image-1 {
     width: 940px;
     height: 627px;
+    transform: scale(1.2);
   }
 }
 
@@ -336,5 +364,5 @@
 }
 
 .u-section-6 .u-image-1:hover {
-  transform: scale(1.5) !important;
+  transform: scale(1.2) !important;
 }
