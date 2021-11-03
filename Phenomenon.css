@@ -95,7 +95,7 @@
 }
 
 .u-section-2 .u-image-1:hover {
-  transform: scale(1.5) !important;
+  transform: scale(1.2) !important;
 }.u-section-3 .u-sheet-1 {
   min-height: 1080px;
 }
@@ -155,6 +155,7 @@
 .u-section-4 .u-image-1 {
   width: 480px;
   height: 720px;
+  transition-duration: 0.5s;
   margin: 60px auto;
 }
 
@@ -167,6 +168,14 @@
     width: 340px;
     height: 510px;
   }
+}
+
+.u-section-4 .u-image-1 {
+  transition-property: color, background-color, background-image, border-width, box-shadow, text-shadow, opacity, border-radius, border-color, font-size, font-style, font-weight, font-weight, text-decoration, letter-spacing, transform !important;
+}
+
+.u-section-4 .u-image-1:hover {
+  transform: scale(1.2) !important;
 }.u-section-5 .u-sheet-1 {
   min-height: 1080px;
 }
@@ -246,7 +255,7 @@
 }
 
 .u-section-6 .u-image-1:hover {
-  transform: scale(1.5) !important;
+  transform: scale(1.2) !important;
 }.u-section-7 .u-sheet-1 {
   min-height: 1080px;
 }
@@ -337,7 +346,7 @@
 }
 
 .u-section-8 .u-image-1:hover {
-  transform: scale(1.5) !important;
+  transform: scale(1.2) !important;
 }.u-section-9 .u-sheet-1 {
   min-height: 1080px;
 }
@@ -365,7 +374,7 @@
 }
 
 .u-section-9 .u-image-1:hover {
-  transform: scale(1.5) !important;
+  transform: scale(1.2) !important;
 }.u-section-10 .u-sheet-1 {
   min-height: 1080px;
 }
@@ -404,5 +413,5 @@
 }
 
 .u-section-10 .u-image-1:hover {
-  transform: scale(1.5) !important;
+  transform: scale(1.2) !important;
 }
