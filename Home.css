@@ -145,10 +145,11 @@
 
 @media (max-width: 575px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 1020px;
+    min-height: 659px;
   }
 
   .u-section-1 .u-gallery-1 {
+    height: 374px;
     width: 440px;
   }
 }.u-section-2 .u-sheet-1 {
